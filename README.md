@@ -48,11 +48,4 @@ bash
 Copy
 Edit
 streamlit run app.py
-🌐 Streamlit Cloud Deployment
-You can deploy this app on Streamlit Cloud by:
 
-Connecting this GitHub repo
-
-Setting app.py as the main file
-
-Adding a requirements.txt (already included)
